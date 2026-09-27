@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop stop-color="#18121f"></stop>
+<stop offset="1" stop-color="#7b3ff2"></stop>
+</linearGradient>
+</defs>
+
+<rect width="800" height="450" fill="url(#g)"></rect>
+
+<text x="60" y="205" font-family="Arial" font-size="58" font-weight="bold" fill="white">
+PORTFOLIO
+</text>
+
+<text x="60" y="270" font-family="Arial" font-size="42" fill="#d9c8ff">
+WEBSITE
+</text>
+
+</svg>
